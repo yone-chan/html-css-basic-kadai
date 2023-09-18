@@ -163,7 +163,7 @@ p {
   #product-left > div {
     position: relative;
     height: 480px;
-    margin-left: 20px;
+    margin-right: 20px;
   }
   #product-right > div {
     position: relative;
