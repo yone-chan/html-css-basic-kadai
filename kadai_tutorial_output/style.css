@@ -537,7 +537,7 @@ p {
   .mission-h2::after {
     content: none;
   }
-  #missin-5goals {
+  #mission-5goals {
     margin: 20px;
     display: flex;
   }
